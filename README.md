@@ -1,2 +1,7 @@
-# intermediate-csharp
-Learning and sharing dotnet knowledges =)
+# Intermediate Csharp
+
+### LisT
+
+### Lambda
+
+### Linq
